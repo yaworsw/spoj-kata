@@ -13,7 +13,8 @@
 
     { "path": "problems/onp" },
     { "path": "problems/favdice" },
-    { "path": "problems/miserman", "folder_exclude_patterns": ["bin"] }
+    { "path": "problems/miserman", "folder_exclude_patterns": ["bin"] },
+    { "path": "problems/samer08f" }
 
   ],
   "settings":
