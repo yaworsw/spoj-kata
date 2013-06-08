@@ -9,6 +9,10 @@
     "capitalize": true
   },
 
+  "php":{
+    "ext":"php"
+  },
+
   "ruby": {
     "ext": "rb"
   }

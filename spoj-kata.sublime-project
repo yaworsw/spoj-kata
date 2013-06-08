@@ -24,6 +24,12 @@
     },
     {
       "path": "problems/samer08f"
+    },
+    {
+      "path": "problems/facefrnd",
+      "folder_exclude_patterns": [
+        "bin"
+      ]
     }
   ],
   "settings": {
