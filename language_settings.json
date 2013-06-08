@@ -1,0 +1,16 @@
+{
+
+  "c": {
+    "ext": "c"
+  },
+
+  "java": {
+    "ext": ".java",
+    "capitalize": true
+  },
+
+  "ruby": {
+    "ext": "rb"
+  }
+
+}
