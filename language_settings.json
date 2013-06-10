@@ -5,7 +5,7 @@
   },
 
   "java": {
-    "ext": ".java",
+    "ext": "java",
     "capitalize": true
   },
 
