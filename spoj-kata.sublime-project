@@ -36,6 +36,12 @@
       "folder_exclude_patterns": [
         "bin"
       ]
+    },
+    {
+      "path": "problems/ny10a",
+      "folder_exclude_patterns": [
+        "bin"
+      ]
     }
   ],
   "settings": {
