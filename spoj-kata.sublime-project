@@ -30,6 +30,12 @@
       "folder_exclude_patterns": [
         "bin"
       ]
+    },
+    {
+      "path": "problems/ppath",
+      "folder_exclude_patterns": [
+        "bin"
+      ]
     }
   ],
   "settings": {
