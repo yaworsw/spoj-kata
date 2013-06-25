@@ -42,6 +42,12 @@
       "folder_exclude_patterns": [
         "bin"
       ]
+    },
+    {
+      "path": "problems/nsystem",
+      "folder_exclude_patterns": [
+        "bin"
+      ]
     }
   ],
   "settings": {
