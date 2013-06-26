@@ -4,7 +4,8 @@
       "path": ".",
       "file_exclude_patterns": [
         "*.sublime-workspace",
-        ".class"
+        ".class",
+        "a.out"
       ],
       "folder_exclude_patterns": [
         "problems"
@@ -45,6 +46,12 @@
     },
     {
       "path": "problems/nsystem",
+      "folder_exclude_patterns": [
+        "bin"
+      ]
+    },
+    {
+      "path": "problems/hangover",
       "folder_exclude_patterns": [
         "bin"
       ]
