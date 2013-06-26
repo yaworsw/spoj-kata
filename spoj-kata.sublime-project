@@ -52,6 +52,9 @@
     },
     {
       "path": "problems/hangover",
+      "file_exclude_patterns": [
+        "a.out"
+      ],
       "folder_exclude_patterns": [
         "bin"
       ]

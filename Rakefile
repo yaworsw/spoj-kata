@@ -26,6 +26,7 @@ task :p, [:problem_id, :language] do |t, args|
     if needs_write
       json['folders'].push({
         path: "problems/#{args.problem_id.downcase}",
+        file_exclude_patterns: ["a.out"],
         folder_exclude_patterns: ["bin"]
       })
       file.rewind
