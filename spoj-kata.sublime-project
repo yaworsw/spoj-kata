@@ -58,6 +58,15 @@
       "folder_exclude_patterns": [
         "bin"
       ]
+    },
+    {
+      "path": "problems/addrev",
+      "file_exclude_patterns": [
+        "a.out"
+      ],
+      "folder_exclude_patterns": [
+        "bin"
+      ]
     }
   ],
   "settings": {
